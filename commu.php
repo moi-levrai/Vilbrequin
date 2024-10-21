@@ -37,3 +37,4 @@
 	onmouseout=this.src="moto_sol.JPG">	
 
 </center>
+</body>
